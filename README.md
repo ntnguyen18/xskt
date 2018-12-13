@@ -1,1 +1,2 @@
 # xskt
+permalink: /index.html
